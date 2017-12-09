@@ -1,1 +1,2 @@
 This is text for test.txt
+This is a second line for test.txt
