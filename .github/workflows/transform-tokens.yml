@@ -14,7 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # this lets us work in the actual repository 
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
+      # Run commands within a specific folder
+      - name: Run script in a specific folder
+        working-directory: ./designToken-actions
+        run: |
+          echo "Running within the specific folder"
+          ls -la
       # if the folder named "tokens" does not exist, create it
       - name: mkdir "tokens" directory
         # change tokens here (and in line 32) if you want to use a differently named folder 
