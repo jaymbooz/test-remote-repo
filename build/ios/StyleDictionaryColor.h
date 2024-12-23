@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 23 Dec 2024 16:07:44 GMT
+// Generated on Mon, 23 Dec 2024 16:27:33 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -15,6 +15,7 @@ PrimitivesColorPrimaryTertiary,
 PrimitivesColorPrimaryPrimary,
 PrimitivesColorPrimarySeries1,
 PrimitivesColorPrimarySeries2,
+PrimitivesColorPrimarySeries4,
 PrimitivesColorNeutralBlack,
 PrimitivesColorNeutralWhite,
 SemanticBorderDefault,
