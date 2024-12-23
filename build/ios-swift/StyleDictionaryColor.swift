@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 23 Dec 2024 16:07:44 GMT
+// Generated on Mon, 23 Dec 2024 16:17:25 GMT
 
 
 import UIKit
@@ -18,6 +18,7 @@ public enum StyleDictionaryColor {
     public static let colorPrimarySecondary = #f6cf3fff
     public static let colorPrimarySeries1 = #4f38f5ff
     public static let colorPrimarySeries2 = #de1e26ff
+    public static let colorPrimarySeries4 = #007ac2ff
     public static let colorPrimaryTertiary = #ea002aff
     public static let primary = #ffffffff
     public static let surfaceBase = #ffffffff
