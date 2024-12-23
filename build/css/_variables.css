@@ -6,6 +6,7 @@
   --primitives-color-primary-series-2: rgb(222, 30, 38);
   --primitives-color-neutral-black: rgb(0, 0, 13);
   --primitives-color-neutral-white: rgb(255, 255, 255);
+  --primitives-number: 20px;
   --semantic-border-default: rgb(0, 0, 13);
   --semantic-text-body-text: rgb(0, 0, 13);
   --semantic-surface-base: rgb(255, 255, 255);

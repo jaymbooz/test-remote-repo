@@ -6,6 +6,7 @@
   "PrimitivesColorPrimarySeries2": "#de1e26ff",
   "PrimitivesColorNeutralBlack": "#00000dff",
   "PrimitivesColorNeutralWhite": "#ffffffff",
+  "PrimitivesNumber": 20,
   "SemanticBorderDefault": "#00000dff",
   "SemanticTextBodyText": "#00000dff",
   "SemanticSurfaceBase": "#ffffffff",
